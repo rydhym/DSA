@@ -5,16 +5,16 @@ public:
         unordered_set<string> st(wordList.begin(), wordList.end());
         if (st.find(endWord) == st.end())
             return 0;
-        queue<pair<string,int>> q;
+        queue<pair<string,int>> q;//stores words and steps
         q.push({beginWord, 1});
-        st.erase(beginWord);
+        st.erase(beginWord);//amrks begine words as visited
         while (!q.empty()) {
             string word = q.front().first;
             int steps = q.front().second;
             q.pop();
             if (word == endWord)
                 return steps;
-            for (int i = 0; i < word.size(); i++) {
+            for (int i = 0; i < word.size(); i++) {//internal loop h..o..t
                 char original = word[i];
                 for (char ch = 'a'; ch <= 'z'; ch++) {
                     word[i] = ch;
