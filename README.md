@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/rydhym/DSA/tree/master/0148-sort-list) |
+| [0345-reverse-vowels-of-a-string](https://github.com/rydhym/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/rydhym/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rydhym/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Divide and Conquer
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/rydhym/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/rydhym/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rydhym/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rydhym/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
