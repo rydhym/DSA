@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/rydhym/DSA/tree/master/0037-sudoku-solver) |
 | [0162-find-peak-element](https://github.com/rydhym/DSA/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/rydhym/DSA/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/rydhym/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/rydhym/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0486-predict-the-winner](https://github.com/rydhym/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/rydhym/DSA/tree/master/0877-stone-game) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/rydhym/DSA/tree/master/0148-sort-list) |
+| [0283-move-zeroes](https://github.com/rydhym/DSA/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/rydhym/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/rydhym/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rydhym/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
