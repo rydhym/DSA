@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/rydhym/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/rydhym/DSA/tree/master/0037-sudoku-solver) |
+| [0053-maximum-subarray](https://github.com/rydhym/DSA/tree/master/0053-maximum-subarray) |
 | [0162-find-peak-element](https://github.com/rydhym/DSA/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/rydhym/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/rydhym/DSA/tree/master/0283-move-zeroes) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/rydhym/DSA/tree/master/0053-maximum-subarray) |
 | [0486-predict-the-winner](https://github.com/rydhym/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/rydhym/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/rydhym/DSA/tree/master/1140-stone-game-ii) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/rydhym/DSA/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/rydhym/DSA/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
