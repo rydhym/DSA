@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0441-arranging-coins](https://github.com/rydhym/DSA/tree/master/0441-arranging-coins) |
 | [0486-predict-the-winner](https://github.com/rydhym/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/rydhym/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/rydhym/DSA/tree/master/1140-stone-game-ii) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/rydhym/DSA/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/rydhym/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0441-arranging-coins](https://github.com/rydhym/DSA/tree/master/0441-arranging-coins) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rydhym/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Depth-First Search
 |  |
