@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/rydhym/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/rydhym/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0486-predict-the-winner](https://github.com/rydhym/DSA/tree/master/0486-predict-the-winner) |
+| [0724-find-pivot-index](https://github.com/rydhym/DSA/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/rydhym/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/rydhym/DSA/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/rydhym/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/rydhym/DSA/tree/master/0724-find-pivot-index) |
 | [1140-stone-game-ii](https://github.com/rydhym/DSA/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/rydhym/DSA/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
