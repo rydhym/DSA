@@ -19,7 +19,7 @@ jobs:
           git config --global user.name "rydhym"
           git config --global user.email "agarwalrydhym@gmail.com"
 
-          MISSED_DATE="2026-07-18T12:00:00+05:30"
+          MISSED_DATE="2026-06-25T12:00:00+05:30"
 
           GIT_AUTHOR_DATE="$MISSED_DATE" \
           GIT_COMMITTER_DATE="$MISSED_DATE" \
