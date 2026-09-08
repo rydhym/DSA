@@ -1,11 +1,15 @@
 name: Patch Missed Streak
 
 on:
-  workflow_dispatch: # This lets you trigger it manually with a button
+  workflow_dispatch:
 
 jobs:
   backdate:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -14,9 +18,11 @@ jobs:
         run: |
           git config --global user.name "rydhym"
           git config --global user.email "agarwalrydhym@gmail.com"
-          
-          # CHANGE THE DATE BELOW TO YOUR MISSED DAY (YYYY-MM-DD)
-          MISSED_DATE="2026-07-18 12:00:00"
-          
-          GIT_COMMITTER_DATE="$MISSED_DATE" git commit --allow-empty -m "Fixing my streak" --date "$MISSED_DATE"
+
+          MISSED_DATE="2026-07-18T12:00:00+05:30"
+
+          GIT_AUTHOR_DATE="$MISSED_DATE" \
+          GIT_COMMITTER_DATE="$MISSED_DATE" \
+          git commit --allow-empty -m "Fixing July 18 streak"
+
           git push origin main
