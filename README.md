@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/rydhym/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0486-predict-the-winner](https://github.com/rydhym/DSA/tree/master/0486-predict-the-winner) |
 | [0724-find-pivot-index](https://github.com/rydhym/DSA/tree/master/0724-find-pivot-index) |
+| [0835-image-overlap](https://github.com/rydhym/DSA/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/rydhym/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/rydhym/DSA/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/rydhym/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/rydhym/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/rydhym/DSA/tree/master/0037-sudoku-solver) |
+| [0835-image-overlap](https://github.com/rydhym/DSA/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/rydhym/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Backtracking
 |  |
