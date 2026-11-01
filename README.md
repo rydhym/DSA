@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/rydhym/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/rydhym/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/rydhym/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/rydhym/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/rydhym/DSA/tree/master/0486-predict-the-winner) |
 | [0724-find-pivot-index](https://github.com/rydhym/DSA/tree/master/0724-find-pivot-index) |
 | [0835-image-overlap](https://github.com/rydhym/DSA/tree/master/0835-image-overlap) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0441-arranging-coins](https://github.com/rydhym/DSA/tree/master/0441-arranging-coins) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/rydhym/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/rydhym/DSA/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/rydhym/DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/rydhym/DSA/tree/master/0877-stone-game) |
